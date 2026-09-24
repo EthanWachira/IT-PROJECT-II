@@ -1,0 +1,28 @@
+# Environment and local configuration
+.env
+
+# XAMPP / local files
+xampp/
+
+# PHP dependencies
+/vendor/
+
+# Logs
+*.log
+storage/logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# PHP development files
+.phpunit.result.cache
